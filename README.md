@@ -12,5 +12,7 @@ School Project for a GUI Bank Account Management System. Made for Windows.
 ## Bibliography
 
 http://python.mykvs.in
+
 https://realpython.com
+
 https://docs.python.org
